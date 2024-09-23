@@ -12,12 +12,9 @@ export default {
         },
       },
       colors: {
-        theme1: "#004B40",
+        theme1: "#0CA37F",
         theme2: "#0D785A",
         theme3: "#55A28C",
-        theme4: "#CCD9D5",
-        theme5: "#CD901B",
-        theme6: "#10570A",
         google: "#E16262",
         facebook: "#1778F2",
       },
