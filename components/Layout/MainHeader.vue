@@ -1,6 +1,6 @@
 <template>
   <header>
-    <section class="py-3 font-semibold text-white bg-theme1">
+    <section class="py-3 text-white bg-theme1">
       <div class="container flex gap-8">
         <aside class="flex items-center gap-1">
           <IconsPhoneIcon class="w-5 h-5" />

@@ -1,7 +1,7 @@
 <template>
   <main>
     <LayoutMainHeader />
-    <section class="p-4 bg-slate-50">
+    <section class="bg-slate-50">
       <slot />
     </section>
   </main>
